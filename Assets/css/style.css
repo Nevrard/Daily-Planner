@@ -69,7 +69,7 @@ textarea {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
-.btn{
+.clearBtn{
   margin-top: 20px;
   background-color: rgb(137, 137, 231);
   border-radius: 9px;
