@@ -1,6 +1,6 @@
 # Daily-Planner
 
-##Table of Contents
+## Table of Contents
 .General Information
 .Specifications
 .ScreenShots
