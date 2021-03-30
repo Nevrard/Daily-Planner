@@ -26,7 +26,7 @@ function displayTask(){
 $('#9').val(localStorage.getItem('9AM'))
 $('#10').val(localStorage.getItem('10AM'))
 $('#11').val(localStorage.getItem('11AM'))
-$('#12').val(localStorage.getItem('12AM'))
+$('#12').val(localStorage.getItem('12PM'))
 $('#13').val(localStorage.getItem('1PM'))
 $('#14').val(localStorage.getItem('2PM'))
 $('#15').val(localStorage.getItem('3PM'))

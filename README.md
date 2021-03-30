@@ -8,7 +8,7 @@
 
 ## General informations
 
-The Daily Planner is a web application that is built to help a user to save all planned tasks to be done between 9AM to 5PM.
+The Daily Planner is a web application that is built to help user to save all planned tasks to be done between 9AM to 5PM.
 
 It gives the date of the day in the format specified by the User story
 All the timeblocks corresponding to each hour are colored according to the current Hour.Grey color is for the pas hours ,red for present hour and green for future Hours.
@@ -37,7 +37,7 @@ After Deleting all the saved Tasks
 
 ## Implementations
 
-Daily Planner  can be access with this Link:
+Daily Planner  can be accessed with this Link:
 https://nevrard.github.io/Daily-Planner/
 
 
